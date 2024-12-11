@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\bin\Debug\гороскоп.exe.config
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\bin\Debug\гороскоп.exe
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\bin\Debug\гороскоп.pdb
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.Form1.resources
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.exe
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.pdb
+C:\Users\Пользователь\source\repos\гороскоп\гороскоп\obj\Debug\гороскоп.Form2.resources
